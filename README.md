@@ -1,0 +1,2 @@
+# SyniverseSpecs
+Syniverse CocoaPod Specs
